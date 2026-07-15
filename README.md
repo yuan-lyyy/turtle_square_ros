@@ -83,4 +83,3 @@ rosrun turtle_square draw_square.py
 ```
 
 运行后，小海龟会在 turtlesim 窗口中自动绘制正方形轨迹。
-
